@@ -1,3 +1,3 @@
 # angelhack-washingtondc-2016
 Indoor Drone Traffic Control
-[![Skynet Drone](http://i.imgbox.com/zqe8bhlR.jpg)](https://youtu.be/MELq1jfMjEE)
+(https://youtu.be/MELq1jfMjEE)
